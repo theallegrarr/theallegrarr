@@ -1,0 +1,1 @@
+<a href="https://app.daily.dev/theallegrarr"><img src="https://api.daily.dev/devcards/8a858d8af72243c8a0dd0704224eb10b.png?r=6d3" width="400" alt="Nurudeen Amedu's Dev Card"/></a>
