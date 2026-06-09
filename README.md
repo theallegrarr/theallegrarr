@@ -7,7 +7,6 @@
 *Building reliable, scalable software — one clean commit at a time.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nurudeenamedu-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurudeenamedu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-nurudeen--amedu.now.sh-000000?style=flat&logo=vercel&logoColor=white)](https://nurudeen-amedu.now.sh)
 [![Email](https://img.shields.io/badge/Email-nurudeen.amedu@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:nurudeen.amedu@gmail.com)
 
 </div>
